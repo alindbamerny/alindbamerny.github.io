@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alindbamerny.github.io/sitemap.xml
